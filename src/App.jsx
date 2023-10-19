@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route
-          path="/"
+          index
           element={<Homepage />}
         />
         <Route
@@ -32,8 +32,24 @@ function App() {
         />
         <Route
           path="app"
-          element={<AppLayout />}
-        />
+          element={<AppLayout />}>
+          <Route
+            index
+            element={<p>List of cities</p>}
+          />
+          <Route
+            path="cities"
+            element={<p>List of cities</p>}
+          />
+          <Route
+            path="countries"
+            element={<p>Countries</p>}
+          />
+          <Route
+            path="form"
+            element={<p>Form</p>}
+          />
+        </Route>
       </Routes>
     </BrowserRouter>
   );
