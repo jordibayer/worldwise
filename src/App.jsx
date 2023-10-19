@@ -9,6 +9,7 @@ import AppLayout from "./pages/AppLayout";
 import PageNotFound from "./pages/PageNotFound";
 import CityList from "./components/CityList";
 import CountryList from "./components/CountryList";
+import City from "./components/City";
 
 const URL = "http://localhost:8000";
 
@@ -75,6 +76,10 @@ function App() {
                 isLoading={isLoading}
               />
             }
+          />
+          <Route
+            path="cities/:id"
+            element={<City />}
           />
           <Route
             path="countries"
