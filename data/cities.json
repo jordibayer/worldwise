@@ -37,64 +37,16 @@
       "id": 98443197
     },
     {
-      "cityName": "Pancrudo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-10-22T15:40:27.720Z",
-      "notes": "dsgasdg",
-      "position": {
-        "lat": "40.763901280945866",
-        "lng": "-1.0107421875000002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Pancrudo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-10-22T15:40:27.720Z",
-      "notes": "dsgasdg",
-      "position": {
-        "lat": "40.763901280945866",
-        "lng": "-1.0107421875000002"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Pancrudo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-10-22T15:43:59.404Z",
-      "notes": "asdga",
-      "position": {
-        "lat": "40.763901280945866",
-        "lng": "-1.0107421875000002"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Viniegra de Arriba",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-10-22T15:43:59.404Z",
-      "notes": "asdga",
-      "position": {
-        "lat": "42.06560675405716",
-        "lng": "-2.8125"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Loule",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2023-10-22T15:48:18.185Z",
+      "cityName": "Canillo",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2023-10-22T16:39:59.708Z",
       "notes": "",
       "position": {
-        "lat": "37.2478212015543",
-        "lng": "-8.041992187500002"
+        "lat": "42.56926437219384",
+        "lng": "1.6479492187500002"
       },
-      "id": 98443202
+      "id": 98443198
     }
   ]
 }
